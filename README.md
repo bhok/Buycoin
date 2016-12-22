@@ -3,7 +3,8 @@ Buycoin integration/staging tree
 
 http://www.buy-coin.me
 
-Copyright (c) 2009-2013 Buycoin Developers
+Copyright (c) 2009-2013 Bitcoin Developers
+Copyright (c) 2015-2016 Buycoin Developers
 
 What is Buycoin?
 ----------------
